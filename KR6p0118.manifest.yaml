@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0118_000.yaml, hash: 'sha256:cc643ea757f0f3202d92204f417c96d030feb5b2c28f4a497bd9bd9361654b9b'}
-  - {seq: 1, filename: KR6p0118_001.yaml, hash: 'sha256:ada614f926a312cc5887cc83fb3a248768b4793509a2ef731b919166e12d6c9f'}
+  - {seq: 0, filename: KR6p0118_000.yaml, hash: 'sha256:57d6f52398772f1c51673f5bd9e19809a44236f758d6897c44d3b7387f046ca4'}
+  - {seq: 1, filename: KR6p0118_001.yaml, hash: 'sha256:6f39c1d557691039ebe6d2455e6e61884c8ed57adec77dcbb5bc9905b9088529'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0118_000.markers.yaml, hash: 'sha256:a3a5f3154ace1e3f7c29b1aa6ab0b60b22dca90b5319d955c4d180aa17040afd'}
-  - {seq: 1, role: markers, filename: assets/KR6p0118_001.markers.yaml, hash: 'sha256:154a5fb8897a097ecbfa6614d4e21ac8e6a2fff37b72f172cc95e5a07ac29f9f'}
+  - {seq: 0, role: markers, filename: assets/KR6p0118_000.markers.yaml, hash: 'sha256:1aa2755318adc81576c9c50bb20a6379cdd3f71e8533c36667c547485d3d4020'}
+  - {seq: 1, role: markers, filename: assets/KR6p0118_001.markers.yaml, hash: 'sha256:6aaf502803c0b31e4d6926b937558337853174310fe0711c903d1beadeaf6a7c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -327,7 +327,4 @@ table_of_contents:
   label: 淨土隨學題詞
   type: mulu
   level: 1
-hash: sha256:ca375fb17f727a24cd9ad93f1efd3f55e39078a370e44959f973e1d86d8bf452
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:831059d1f852511f8dc645b6054587c1fa6a9df841ec0ebd73896712344b85ee
