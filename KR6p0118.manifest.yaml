@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0118_000.yaml, hash: 'sha256:8f432654f942c8d62cc357ab06f3db574427c7f7fe14b90341de8f98cefefb14'}
+  - {seq: 0, filename: KR6p0118_000.yaml, hash: 'sha256:d41efcbf74f44c37abea4f131327ce34a5c7a4fce0a8701e4b744868171c8bf2'}
   - {seq: 1, filename: KR6p0118_001.yaml, hash: 'sha256:e7e527d3e6d76ed5d8cffd6badc9071aaf1761b972382fe9741d14b69a975ada'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0118_000.markers.yaml, hash: 'sha256:489664d00e036512555df50161d9e2e8500cabf6c8a1ccdb0a647adf287ff6ee'}
+  - {seq: 0, role: markers, filename: assets/KR6p0118_000.markers.yaml, hash: 'sha256:d310a199a8599dac0ac9bfc875fdd6c5f47113f67b42cac663f4c85b9334d916'}
   - {seq: 1, role: markers, filename: assets/KR6p0118_001.markers.yaml, hash: 'sha256:5de45145ad59b7e41331d4d4e2ae4ec2ea66ffae927c5e7957e384a1e6b3c3f9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1199-A 淨業痛策附刻序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-2
     span:
-    - front
+    - body
     - 290
     - 290
   label: No. 1199-B 淨業痛策前附
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-3
     span:
-    - front
+    - body
     - 674
     - 674
   label: No. 1199-C 佛說阿彌陀經禮想儀
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-4
     span:
-    - front
+    - body
     - 693
     - 693
   label: 禮想
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-5
     span:
-    - front
+    - body
     - 1307
     - 1307
   label: 跪誦
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-6
     span:
-    - front
+    - body
     - 1680
     - 1680
   label: 臨睡回向簡便法則
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-7
     span:
-    - front
+    - body
     - 1861
     - 1861
   label: 蓮宗正傳
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0118_X_000-mulu-8
     span:
-    - front
+    - body
     - 2154
     - 2154
   label: No. 1199-D 淨業痛策緣起
@@ -327,7 +327,7 @@ table_of_contents:
   label: 淨土隨學題詞
   type: mulu
   level: 1
-hash: sha256:c14fe659373c404c6d514b0dd324af0c6b8877a3fae6b509c5fb653e618caf38
+hash: sha256:f9ac60e42bce95d894bf444e914e14bd91b248059b7e828e7e0b3a561059a7a5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
